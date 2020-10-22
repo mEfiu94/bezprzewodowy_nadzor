@@ -1,5 +1,5 @@
 # Bezprzewodowy system nadzoru
-Praca inżynierska - bezprzewodowy system nadzoru.
+Praca inżynierska z 2017r - bezprzewodowy system nadzoru.
 
 Język: C, C++
 
